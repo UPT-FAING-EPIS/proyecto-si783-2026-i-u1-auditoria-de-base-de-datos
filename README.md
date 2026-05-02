@@ -19,7 +19,6 @@ Este sistema proporciona una plataforma centralizada para administrar y auditar 
 |:-------|:------------|
 | 📡 **Monitoreo en Vivo** | Seguimiento en tiempo real de las operaciones y transacciones de la base de datos mediante la vista `1_Monitoreo_Vivo.py`. |
 | 📁 **Cargador de CSV** | Importación y análisis de reportes de auditoría históricos mediante `2_Cargador_CSV.py`, utilizando la librería Pandas para el manejo de datos. |
-| ⏪ **Generación de Rollbacks** | Funcionalidad para la creación automatizada de scripts de reversión SQL, permitiendo deshacer cambios no deseados o alteraciones a nivel lógico. |
 | 🔌 **Gestor de Conexión** | Módulo dedicado (`database.py`) para administrar las conexiones y ejecutar consultas de forma modular. |
 
 ---
