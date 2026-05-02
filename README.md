@@ -52,6 +52,7 @@ streamlit run app.py
 ---
 ###📁 Estructura del Proyecto
 La organización del repositorio separa la lógica principal, las vistas de la interfaz, los datos de prueba y la documentación:
+
 proyecto-auditoria-bd/
 ├── 📄 app.py                  # Punto de entrada de la aplicación Streamlit
 ├── 📄 database.py             # Lógica de conexión y ejecución de sentencias SQL
